@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.jeanfgermain.com/sitemap.xml
+Sitemap: https://www.jean-fgermain.com/sitemap.xml
